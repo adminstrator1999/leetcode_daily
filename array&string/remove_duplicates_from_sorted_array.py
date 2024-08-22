@@ -25,8 +25,8 @@ class Solution:
     #     return p1 + 1
 
 
-nums = [1]
-# nums = [0, 0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
+# nums = [1]
+nums = [0, 0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
 solution = Solution()
 print(solution.removeDuplicates(nums))
 print(nums)
